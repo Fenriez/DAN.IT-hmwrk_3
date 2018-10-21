@@ -1,2 +1,5 @@
 #PSD files
 *.psd
+
+#ZIP files
+*.zip
